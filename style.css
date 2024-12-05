@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+   font-family: "Inter", sans-serif;
+   box-sizing: border-box;
+}
+.submitBtn {
+    padding: 0.6vw 1.5vw;
+    margin-top: 1vw;
+    border: none;
+    color: white;
+    border-radius: 0.2vw;
+}
+body {
+    background-color: #4a8d86;
+}
+
+ul li {
+    font-size: 1vw;
+}
+
+.sec-section {
+    display: flex;
+}
+/* .input-field {
+    width: 100%;
+} */
+.main-section {
+    padding: 2.2vw;
+}
+.para {
+    color: #7D7D7D;
+}
+.lists, .right-ul {
+    list-style: none;
+}
+.left-side {
+    width: 50%;
+}
+.rightt {
+    /* background-color: firebrick; */
+    width: 100%;
+}
+.right-side {
+    width: 100%;
+    /* background-color: palevioletred; */
+}
+
+.down-right {
+    display: flex;
+}
+.down-right div{
+    margin: 0 1vw;
+
+}
+.right-ul {
+    display: flex;
+}
+.right-ul li {
+    padding: 0 1vw;
+    margin: 0 1vw;
+    border: 1px solid #7D7D7D;
+    border-radius: 40px;
+}
+#submit {
+    padding: 0.5vw;
+}
+/* .leftt {
+    width: 30%;
+    background-color: gold;
+} */
+.card-body p {
+    font-size: 1vw;
+}
+.createBlog {
+   font-style: none;
+   text-decoration: none;
+}
