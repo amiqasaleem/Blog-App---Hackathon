@@ -19,6 +19,9 @@ body {
 ul li {
     font-size: 1vw;
 }
+#loginBtn, #signInWithGoogle, #signUpBtn{
+    background-color: #3D74FF;
+}
 
 .sec-section {
     display: flex;
